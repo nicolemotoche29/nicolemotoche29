@@ -1,4 +1,4 @@
-- 👋 Hola a tods
+- 👋 Hola a  todos
 - Me llam Nicole Motoche
 - Tengo 21 a;os
 - Estudio en la Escuela Politecnica Nacional
