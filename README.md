@@ -1,5 +1,5 @@
 - 👋 Hola a  todos
-- Me llam Nicole Motoche
-- Tengo 21 añ
+- Me llamo Nicole Motoche
+- Tengo 21 años
 - Estudio en la Escuela Politecnica Nacional
 - Estoy cursando la carrera en Desarrollo de Softaware
